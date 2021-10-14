@@ -13,6 +13,9 @@ box-sizing: border-box;
   z-index: -1;
   opacity: 0.20;
 }
+
+
+
 body {
   display:grid;
   grid-template-columns: 1fr 1fr;
@@ -243,5 +246,7 @@ a {
     
     
     }
+
+  
   
 }
