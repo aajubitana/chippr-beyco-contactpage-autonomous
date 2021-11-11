@@ -1,31 +1,13 @@
-> _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
+# Beschrijving contactpagina voor Beyco
 
-## Beschrijving
-<!-- Voeg een link toe naar Github Pages 🌐-->
-<!-- Voeg een mooie poster visual toe 📸 -->
+In sprint 2 mochten we een opdracht kiezen van een opdrachtgever ik heb gekozen voor het project Beyco. Hierbij heb ik gebruik gemaakt van de Devlifecycle. 
+( Analyseren Ontwerpen Bouwen Integreren Testen ) Het was hierbij de bedoeling een contact pagina te maken voor Beyco. Opdrachtgever was Chippr.
 
-## Inhoudsopgave
+Hier kun je mijn proces lezen bij het maken van de contactpagina : [Proces contactpagina Beyco](https://github.com/aajubitana/chippr-beyco-contactpage-autonomous/wiki)
 
-- [Titel](#titel)
-  * [Beschrijving](#beschrijving)
-  * [Kenmerken](#kenmerken)
-  * [Installatie](#installatie)
-  * [Gebruik](#gebruik)
-  * [Bronnen](#bronnen)
-  * [Licentie](#licentie)
+![contactpagina Beyco](https://github.com/aajubitana/chippr-beyco-contactpage-autonomous/blob/main/bijlage/contactpaginabeyco.png)
 
-## Kenmerken
 
-## Installatie
 
-## Gebruik
 
-## Bronnen
-
-## Licentie
-
-![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
-
-This work is licensed under [GNU GPLv3](./LICENSE).
